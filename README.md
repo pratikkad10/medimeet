@@ -1,3 +1,23 @@
+
+# MediMeet 💬🩺
+
+A modern telemedicine web app built with **Next.js**, using **Clerk** for authentication and **Vonage** for secure video calls.  
+
+🌐 Live site: [https://medimeet-swart.vercel.app](https://medimeet-swart.vercel.app)
+
+---
+
+## 🚀 Features
+
+- 🔐 **Authentication** — powered by [Clerk](https://clerk.dev)
+- 📹 **Video Calling** — integrated using [Vonage Video API (OpenTok)](https://www.vonage.com/communications-apis/video/)
+- ⚡️ Built with [Next.js](https://nextjs.org) for performance and scalability
+- 🌐 Hosted on [Vercel](https://vercel.com)
+- 📱 Responsive design for all devices
+
+---
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -28,6 +48,9 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+
+
 
 ## Deploy on Vercel
 
